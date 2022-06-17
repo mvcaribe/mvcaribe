@@ -5,7 +5,7 @@
 - 👀 Tenho interesse no mundo da programação
 - 🌱 Atualmente estou aprendendo HTML/CSS E JS
 - 💞️ Interessado em me tornar desenvolvedor front-end
-- 📫 meu intagram @mvcaribe
+- 📫 meu instagram @mvcaribe
 
 <!---
 mvcaribe/mvcaribe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
