@@ -2,9 +2,9 @@
 
 
 - 👋 Oi, eu sou Marcus Vinícius
-- 👀 Tenho interesse no mundo da programação
-- 🌱 Atualmente estou aprendendo HTML/CSS E JS
-- 💞️ Interessado em me tornar desenvolvedor front-end
+- 👀 Apaixonado por tecnológia 
+- 🌱 Desenvolvedor Front-end HTML/CSS E JS
+- 💞️ Sempre na busca de conhecimentos
 - 📫 meu instagram @mvcaribe
 
 <!---
