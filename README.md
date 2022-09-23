@@ -5,7 +5,6 @@
 - 👀 Apaixonado por tecnológia 
 - 🌱 Desenvolvedor Front-end HTML/CSS E JS
 - 💞️ Sempre na busca de conhecimentos
-- 📫 meu instagram @mvcaribe
 
 <!---
 mvcaribe/mvcaribe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
