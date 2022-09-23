@@ -2,7 +2,7 @@
 
 
 - 👋 Oi, eu sou Marcus Vinícius
-- 👀 Apaixonado por tecnológia 
+- 👀 Apaixonado por tecnologia 
 - 🌱 Desenvolvedor Front-end HTML/CSS E JS
 - 💞️ Sempre na busca de conhecimentos
 
